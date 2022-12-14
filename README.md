@@ -1,4 +1,4 @@
-## ATIVIDADE 3 de Robótica - Trabalho de implementação de aplicação em redes utilizando sockets.
+## ATIVIDADE 3 de Robótica 
 
 Nesta atividade, a equipe deverá montar o algoritmo de cinemática direta e cinemática inversa diferencial do robô apresentado no classroom. O arquivo "solid_cotas.png" mostra os comprimentos de cada elo, mas a escolha de posicionamento dos frames é livre. 
 
